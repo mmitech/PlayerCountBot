@@ -1,0 +1,20 @@
+{
+  "SetTimeout": "5000",
+  "Servers": [
+      {
+          "IP":"",
+          "Port": 28015,
+          "RconPassword": "",
+          "DiscordToken": ""
+      },
+      {
+          "IP":"",
+          "Port": 28015,
+          "RconPassword": "",
+          "DiscordToken": ""
+      }
+  ]
+}
+
+
+
