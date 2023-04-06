@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "config.json": "0.0.4",
-    "discord.js": "^14.7.1",
+    "discord.js": "^14.4.0",
     "webrconjs": "^1.0.0"
   }
 }
